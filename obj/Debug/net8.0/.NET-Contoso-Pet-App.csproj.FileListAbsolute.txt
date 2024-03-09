@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\bin\Debug\net8.0\.NET-Contoso-Pet-App.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\bin\Debug\net8.0\.NET-Contoso-Pet-App.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\bin\Debug\net8.0\.NET-Contoso-Pet-App.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\bin\Debug\net8.0\.NET-Contoso-Pet-App.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\bin\Debug\net8.0\.NET-Contoso-Pet-App.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\refint\.NET-Contoso-Pet-App.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\.NET-Contoso-Pet-App.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Contoso-Pet-App\obj\Debug\net8.0\ref\.NET-Contoso-Pet-App.dll
