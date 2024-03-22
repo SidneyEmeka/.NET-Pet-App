@@ -1,5 +1,5 @@
 # PET APP
-This a Pet App where pets inventory and stats are taken, stored and recovered from time to time. <br>
+This a Pet App where pets inventory and stats are taken, stored and recovered from when needed. It accounts for pets that are lost <br>
 Features<br>
 -Has a menu with options used to navigate the app<br>
 -Takes a multi dimensional array that stores data for 8 pets<br>
